@@ -37,6 +37,7 @@ This release also includes changes from <<release-3-3-3, 3.3.3>>.
 * Maintained order of annotations in metrics returned from `profile()`-step.
 * Bumped to Netty 4.1.25.
 * Bumped to Spark 2.3.1.
+* Bumped to Groovy 2.5.2.
 * Deprecated two `submit()`-related methods on the Java driver `Client` class.
 * Added `Client.submit()` overloads that accept per-request `RequestOptions`.
 * Added sparql-gremlin.
